@@ -1,0 +1,42 @@
+server:
+  port: 8081
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+spring:
+  profiles:
+    active: dev
+  application:
+    version: Customer Service v3.0
+  datasource:
+    url: jdbc:mysql://localhost:3306/dbcustomer
+    username: root
+    password: admin
+    driver-class-name: com.mysql.jdbc.Driver
+    hikari:
+      minimumIdle: 2
+      maximumPoolSize: 5
+      cachePrepStmts: true
+      prepStmtCacheSize: 250
+      prepStmtCacheSqlLimit: 2048
+      useServerPrepStmts: true
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+management:
+  tracing:
+    enabled: true
+    sampling:
+      probability: 1.0
+  endpoints:
+    web:
+      exposure:
+        include: "*"
