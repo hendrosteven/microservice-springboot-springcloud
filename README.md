@@ -3,7 +3,8 @@
 [Daftar Kelas ini di UDEMY](https://www.udemy.com/course/draft/5667286/?referralCode=EE3E5863D67DF606E433)
 
 Pengembangan aplikasi dengan arsitektur Microservice sudah merupakan kebutuhan banyak perusahaan saat ini. Sebagai software engineer anda dituntut untuk memiliki pengetahuan dan skill untuk mengembangkan aplikasi dengan arsitektur microservice ini.
- 
+
+![enter image description here](https://github.com/hendrosteven/microservice-springboot-springcloud/blob/main/Microservice-SpringBoot-SpringCloud.png)
 
 Kelas "Membangun Microservice dengan Spring Boot dan Spring Cloud" ini akan membahas secara lengkap konsep-konsep arsitektur microservice. Kita akan belajar step-by-step dengan 90% hands-on atau live coding!
 
