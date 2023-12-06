@@ -1,6 +1,6 @@
 # Membangun Microservice dengan Spring Boot dan Spring Cloud!
 
-[Daftar Kelas ini di UDEMY](https://www.udemy.com/course/draft/5667286/?referralCode=EE3E5863D67DF606E433)
+[Daftar Kelas ini di UDEMY](https://www.udemy.com/course/membangun-microservice-dengan-spring-boot-dan-spring-cloud/)
 
 Pengembangan aplikasi dengan arsitektur Microservice sudah merupakan kebutuhan banyak perusahaan saat ini. Sebagai software engineer anda dituntut untuk memiliki pengetahuan dan skill untuk mengembangkan aplikasi dengan arsitektur microservice ini.
 
@@ -35,6 +35,6 @@ Topik-topik yang akan dibahas antara lain :
     
 **Jika anda adalah seorang programmer Java ataupun pemula di Java yang ingin mengupgrade skill anda dengan Microservice, Spring Boot dan Spring Cloud, maka kelas ini 100% cocok untuk anda!!**
 
-[Daftar Kelas ini di UDEMY](https://www.udemy.com/course/draft/5667286/?referralCode=EE3E5863D67DF606E433)  
+[Daftar Kelas ini di UDEMY](https://www.udemy.com/course/membangun-microservice-dengan-spring-boot-dan-spring-cloud/)  
 
 Implementasi Spring Boot dan Spring Clound dalam materi ini sudah menggunakan versi terbaru (Spring Boot 3.x) dan akan selalu diupdate secara berkala. Jadi tunggu apa lagi? mari bergabung dan belajar bersama dalam kelas ini!!!
